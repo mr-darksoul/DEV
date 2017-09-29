@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="48dp"
+    android:layout_width="48dp">
+    <item
+        android:id="@+id/addquest"
+        android:title="add question"
+        />
+    <item
+        android:id="@+id/topquest"
+        android:title="top questions"
+        />
+
+    <item
+        android:id="@+id/recent"
+        android:title="recent"
+        />
+</menu>
